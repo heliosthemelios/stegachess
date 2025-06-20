@@ -1,0 +1,4 @@
+stockfish
+venv
+__pycache__
+*.txt
